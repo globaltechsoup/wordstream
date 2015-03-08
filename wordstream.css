@@ -1,0 +1,163 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+.sidebar{
+	display: inline-block;
+	vertical-align: top;
+	width: 200px;
+	font-size: 10px;
+	margin-top: -30px;
+
+}
+.main{
+	display: inline-block;
+	width: 500px;
+	font-size: 10px;
+}
+.box{
+	border-style: solid;
+	border-width: 5px;
+	border-color: blue;
+	width: 450px;
+	height: 110px;
+	}
+.navigation li {
+	text-decoration: none;
+	display: inline;
+	border-right: 1px solid gray;
+}
+
+.navigation a:link{
+	text-decoration: none;
+	color: gray;
+}
+
+.navigation {
+	background-color: white;
+	border-bottom: 1px solid lightgray;
+	border-right: 1px solid lightgray;
+	border-left: 1px solid lightgray;
+	height: 20px;
+	width: 350px;
+	border-radius: 5px;
+	font-size: 12px;
+	padding: 10px;
+	margin-left: 300px;
+	display: inline-block;
+	margin-top: -20px;
+}
+
+#title{
+	color: white;
+	background-color: #005CB8;
+	width: 740px;
+	height: 20px;
+	padding-top: 25px;
+	padding-bottom: 15px;
+	font-family: helvetica;
+	font-size: 20px;
+	
+}
+body {
+	font-family: Lato;
+}
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+#login {
+	display: inline-block;
+}
+.phone {
+	display: inline-block;
+}
+.home {
+	margin-left: 200px;
+	display: inline-block;
+}
+#phone {
+	margin-left: 200px;
+	display: inline-block;
+	margin-top: 10px;
+}
+#drive {
+	color: red;
+	font-size: 10px;
+	margin-left: 60px;
+}
+#ad {
+	margin-top: -20px;
+}
+#access {
+	margin-top: -70px;
+	margin-left: 60px;
+}
+#wordstream{
+	color: #005CB8;
+	font-size: 12px;
+}
+.getgraded {
+	margin-top: -200px;
+}
+#achieve {
+	color: #005CB8;
+}
+#automation {
+	color: #005CB8;
+}
+#demobutton {
+	background-color: #005CB8;
+	color: white;
+	border-radius: 5px;
+	font-size: 10px;
+	text-decoration: none;
+	padding: 5px;
+	display: block;
+	width: 80px;
+}
+#freetrial {
+	background-color: orange;
+	color: white;
+	border-radius: 5px;
+	font-size: 10px;
+	text-decoration: none;
+	padding: 5px;
+	display: block;
+	width: 80px;
+}
+#content {
+	margin-top: 10px;
+}
+#gradedbutton {
+	background-color: #005CB8;
+	color: white;
+	border-radius: 10px;
+	font-size: 10px;
+	text-decoration: none;
+	padding: 5px;
+}
+#getstarted {
+	background-color: #00CC00;
+	color: white;
+	border-radius: 5px;
+	font-size: 10px;
+	text-decoration: none;
+	padding: 5px;
+	margin-left: 60px;
+}
+.hours {
+	font-size: 10px;
+	margin: 0;
+}
+#number {
+	color: blue;
+	padding: 0px;
+	margin: 0;
+}
+#performance {
+	color: #005CB8;
+	font-weight: bold;
+	font-size: 15px;
+	margin-top: -20px;
+}
+#profits{
+	color: red;
+}
